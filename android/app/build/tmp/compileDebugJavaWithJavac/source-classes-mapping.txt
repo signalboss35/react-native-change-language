@@ -1,0 +1,14 @@
+com/change_language/BuildConfig.java
+ com.change_language.BuildConfig
+com/change_language/MainApplication.java
+ com.change_language.MainApplication
+ com.change_language.MainApplication$1
+com/change_language/MainActivity.java
+ com.change_language.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/change_language/ReactNativeFlipper.java
+ com.change_language.ReactNativeFlipper
+ com.change_language.ReactNativeFlipper$1
+ com.change_language.ReactNativeFlipper$2
+ com.change_language.ReactNativeFlipper$2$1

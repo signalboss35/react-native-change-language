@@ -1,0 +1,4 @@
+#Mon Apr 26 16:36:46 ICT 2021
+base.0=/Users/auttachai/workspace/example_app/change_language/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
